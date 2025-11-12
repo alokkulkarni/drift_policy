@@ -1,10 +1,10 @@
 # Privacy Policy
 
-**Last Updated: November 4, 2025**
+**Last Updated: November 12, 2025**
 
 ## Overview
 
-This application ("Drift") is designed with privacy as a fundamental principle. All communication occurs directly between devices without requiring internet connectivity or central servers. Your data never leaves your device unless you explicitly share it with another user through a direct peer-to-peer connection.
+This application ("NearLink") is designed with privacy as a fundamental principle. All communication occurs directly between devices without requiring internet connectivity or central servers. Your data never leaves your device unless you explicitly share it with another user through a direct peer-to-peer connection.
 
 ## Data Collection and Storage
 
@@ -149,22 +149,18 @@ Your data is stored in standard formats on your device:
 - **Local Files**: Standard file formats for media and attachments
 
 You can access your data through:
-- Device backup mechanisms (iTunes, iCloud, Android Backup)
+- Device backup mechanisms (platform specific cloud Backup)
 - Export features within the application (if available)
 
 ## Platform-Specific Considerations
 
-### Apple Devices (iOS/macOS)
+### Cross-Platform Devices
 
 - Data stored in app-specific sandbox
 - Multipeer Connectivity used for local communication
+- Bluetooth and Wi-Fi Direct used for communication
 - Data included in device backups (unless disabled)
 
-### Android Devices
-
-- Data stored in app-specific internal storage
-- Bluetooth and Wi-Fi Direct used for communication
-- Data included in Android Backup Service (if enabled)
 
 ### Cross-Platform Compatibility
 
